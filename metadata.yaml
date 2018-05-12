@@ -1,11 +1,14 @@
 _repo: Tartarin-De-Tarascon_2375
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Tartarin de Tarascon. English
 contributor:
   translator:
     agent_name: Colt, Oliver C.
     gutenberg_agent_id: '879'
     url: http://www.gutenberg.org/2009/agents/879
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: See also PG#1862
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2375#Tartarin-De-Tarascon
 gutenberg_issued: '2006-03-22'
 gutenberg_type: Text
 identifiers:
